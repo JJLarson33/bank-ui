@@ -4,4 +4,4 @@
 ### Requirements
 [BankingFinalAssignment.pdf](BankingFinalAssignment.pdf "BankingFinalAssignment.pdf")
 ### How to Install / Run
-#### Run BankAppFrame.java from the ui folder in the java IDE of your choice.
+Run BankAppFrame.java from the ui folder in the java IDE of your choice.
